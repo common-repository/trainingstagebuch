@@ -1,0 +1,223 @@
+# English translations for Trainingstagebuch.
+# Copyright (C) 2009 Christian Schenk
+# This file is distributed under the same license as the Trainingstagebuch plugin.
+# Christian Schenk <schenk@christianschenk.org>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Trainingstagebuch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-27 17:59+0100\n"
+"PO-Revision-Date: 2009-11-27 18:00+0100\n"
+"Last-Translator: Christian Schenk <schenk@christianschenk.org>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../output.php:28
+#: ../trainingstagebuch.php:178
+msgid "Summe aller Trainingseinheiten"
+msgstr "Sum of all workouts"
+
+#: ../output.php:33
+msgid "Trainingseinheiten"
+msgstr "Workouts"
+
+#: ../output.php:40
+#: ../trainingstagebuch.php:183
+msgid "Zeit"
+msgstr "Time"
+
+#: ../output.php:41
+msgid "Stunden"
+msgstr "Hours"
+
+#: ../output.php:47
+msgid "Kilometer"
+msgstr "Kilometer"
+
+#: ../output.php:69
+#: ../trainingstagebuch.php:193
+msgid "Nummer"
+msgstr "Nummber"
+
+#: ../output.php:70
+#: ../trainingstagebuch.php:197
+msgid "Datum"
+msgstr "Date"
+
+#: ../output.php:71
+#: ../trainingstagebuch.php:201
+msgid "Dauer"
+msgstr "Duration"
+
+#: ../output.php:72
+#: ../trainingstagebuch.php:205
+msgid "Herzfrequenz"
+msgstr "Heartrate"
+
+#: ../output.php:73
+#: ../trainingstagebuch.php:209
+msgid "Geschwindigkeit"
+msgstr "Speed"
+
+#: ../output.php:74
+#: ../trainingstagebuch.php:213
+msgid "BORG-Bild"
+msgstr "BORG image"
+
+#: ../trainingstagebuch.php:134
+msgid "Optionen gesichert"
+msgstr "Settings saved"
+
+#: ../trainingstagebuch.php:142
+msgid "Benutzername"
+msgstr "Username"
+
+#: ../trainingstagebuch.php:146
+msgid "Passwort"
+msgstr "Password"
+
+#: ../trainingstagebuch.php:150
+msgid "Optionen"
+msgstr "Options"
+
+#: ../trainingstagebuch.php:153
+msgid "Gr&ouml;&szlig;e des BORG-Bildes"
+msgstr "Size of BORG image"
+
+#: ../trainingstagebuch.php:156
+msgid "gro&szlig;"
+msgstr "large"
+
+#: ../trainingstagebuch.php:157
+msgid "klein"
+msgstr "small"
+
+#: ../trainingstagebuch.php:174
+msgid "Ausgabe"
+msgstr "Output"
+
+#: ../trainingstagebuch.php:175
+msgid "Hier l&auml;sst sich die Ausgabe des Shortcodes anpassen."
+msgstr "You can change the ouput for the shortcode here."
+
+#: ../trainingstagebuch.php:180
+msgid "Alles"
+msgstr "All"
+
+#: ../trainingstagebuch.php:182
+msgid "Anzahl Einheiten"
+msgstr "Number of workouts"
+
+#: ../trainingstagebuch.php:184
+msgid "Distanz"
+msgstr "Distance"
+
+#: ../trainingstagebuch.php:189
+msgid "Tabellenkopf"
+msgstr "Table head"
+
+#: ../trainingstagebuch.php:218
+msgid "Speichern"
+msgstr "Save"
+
+#: ../trainingstagebuch.php:230
+msgid "Status"
+msgstr "Status"
+
+#: ../trainingstagebuch.php:233
+msgid "Verbindung API-Server"
+msgstr "Connection API-Server"
+
+#: ../trainingstagebuch.php:234
+#: ../trainingstagebuch.php:238
+msgid "OK"
+msgstr "OK"
+
+#: ../trainingstagebuch.php:234
+#: ../trainingstagebuch.php:238
+#: ../trainingstagebuch.php:465
+msgid "Fehler"
+msgstr "Error"
+
+#: ../trainingstagebuch.php:237
+msgid "Cache"
+msgstr "Cache"
+
+#: ../trainingstagebuch.php:314
+#, php-format
+msgid "Typ '%s' unbekannt."
+msgstr "Type '%s' unknown."
+
+#: ../trainingstagebuch.php:318
+msgid "Attribut 'id' fehlt."
+msgstr "Attribute 'id' missing."
+
+#: ../trainingstagebuch.php:327
+#: ../trainingstagebuch.php:330
+#: ../trainingstagebuch.php:334
+msgid "Attribut 'year' fehlt."
+msgstr "Attribute 'year' missing."
+
+#: ../trainingstagebuch.php:331
+msgid "Attribut 'month' fehlt."
+msgstr "Attribute 'month' missing."
+
+#: ../trainingstagebuch.php:335
+msgid "Attribut 'week' fehlt."
+msgstr "Attribute 'week' missing."
+
+#: ../trainingstagebuch.php:340
+msgid "Kein Ergebnis erhalten."
+msgstr "Didn't get a result."
+
+#: ../trainingstagebuch.php:355
+msgid "Keine Ausgabe implementiert."
+msgstr "No output implemented."
+
+#: ../trainingstagebuch.php:429
+msgid "Infos aus dem Trainingstagebuch"
+msgstr "Information from your workout diary."
+
+#: ../trainingstagebuch.php:430
+msgid "Trainingstagebuch"
+msgstr "Trainingstagebuch"
+
+#: ../trainingstagebuch.php:482
+msgid "Typ"
+msgstr "Type"
+
+#: ../trainingstagebuch.php:485
+msgid "Banner (gro&szlig;)"
+msgstr "Banner (large)"
+
+#: ../trainingstagebuch.php:486
+msgid "Banner (mittel)"
+msgstr "Banner (medium)"
+
+#: ../trainingstagebuch.php:487
+msgid "Banner (klein)"
+msgstr "Banner (small)"
+
+#: ../trainingstagebuch.php:488
+msgid "Badge 1"
+msgstr "Badge 1"
+
+#: ../trainingstagebuch.php:489
+msgid "Badge 2"
+msgstr "Badge 2"
+
+#: ../trainingstagebuch.php:490
+msgid "Trainingsdaten als Text"
+msgstr "Workout data as text"
+
+#: ../trainingstagebuch.php:491
+msgid "Bild der Trainingsdaten (Monat)"
+msgstr "Workout image (month)"
+
+#: ../trainingstagebuch.php:492
+msgid "Bild der Trainingsdaten (Jahr)"
+msgstr "Workout image (year)"
+
